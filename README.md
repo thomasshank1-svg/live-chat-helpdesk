@@ -1,5 +1,7 @@
 # ChatDesk
 
+![Project screenshot](docs/screenshot.png)
+
 ChatDesk is a small live-chat helpdesk demo. It shows visitor conversations, agent replies, canned responses, and status tracking.
 
 ## Run
